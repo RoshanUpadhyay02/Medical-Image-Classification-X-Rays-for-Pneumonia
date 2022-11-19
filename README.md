@@ -1,1 +1,1 @@
-# Medical-Image-Classification-X-Rays-for-Pneumonia
+# Medical Image Classification X Rays for Pneumonia
